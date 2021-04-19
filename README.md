@@ -1,4 +1,19 @@
-## Github Coin released !
+## Hello World Github Coin  !
+
+Thanks github users and many programer hard wording and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. years of their contributions over the years we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
+
+These spirte should last forever.we need let them get rewarded.And also exchange the value of technology.
+
+So we create this product to these happen: more contribute to this world , more GithubCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay Githubcoin for searching tech help or get usefull data.
+
+Now everyone in Github can miner github coin . using latest ETH tech V1.10.2 (2021.4.19)
+
+
+Opensource：
+
+https://gitee.com/hayoou/githubcoin
+
+
  
 everyone in Github can miner github coin . 
 using latest ETH tech V1.10.2 (2021.4.19)
