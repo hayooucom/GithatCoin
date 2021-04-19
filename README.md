@@ -8,8 +8,11 @@ So we create this product to these happen: more contribute to this world , more 
 
 Now everyone in Github can miner github coin . using latest ETH tech V1.10.2 (2021.4.19)
 
+Offical page:
 
-Opensource：
+http://f.hayoou.com/blogs/entry/GithubCoin-published-for-ervery-github-users-thanks-they-ideas-and-code
+
+Open source：
 
 https://gitee.com/hayoou/githubcoin
 
