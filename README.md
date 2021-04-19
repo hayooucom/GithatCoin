@@ -37,7 +37,7 @@ Android wallet (open source) :
 安卓钱包下载：
 https://github.com/hayooucom/githubcoin-android/releases/tag/1.0
 
-<img src="https://boxmy.hayoou.com/filecache/119d9e66656c9130ff1e6f9e26e4a78d" alt="drawing" width="240"/>   <img src="https://boxmy.hayoou.com/filecache/adb2067db1871a7336cb995a7680d8e3" alt="drawing" width="240"/>   <img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
+   <img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
 
 Welcome to use !
 
@@ -45,7 +45,7 @@ more info:
 
 chainId: 156893586
 
-prefounding: 100,000,000,000 GTC (for give user prize)
+alloc: for send github user prize
 
 istanbulBlock:0
 
