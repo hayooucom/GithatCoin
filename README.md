@@ -20,6 +20,12 @@ https://github.com/hayooucom/githubcoin-android/releases/tag/1.0
 
 Welcome USE !
 
+more info:
+prefounding: 100,000,000,000 GTC (for give user prize)
+
+static node: 
+enode://6a4b432d1dbd5626d13f674ffa833ec0cbe1db3f192a8090d75bd4317acf8cdc2f0702fb0ce9c8d582ebbed65271d2dfab0396e4b0f46842c9b8542b277c26e1@123.207.58.28:57778
+
 
 About ETH:
 
