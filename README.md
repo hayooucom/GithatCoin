@@ -1,13 +1,19 @@
 ## Github Coin released !
+ 
+everyone in Github can miner github coin . 
+using latest ETH tech V1.10.2 (2021.4.19)
 
-everyone in Github can miner our coin . using latest ETH tech V1.10.2 (2021.4.19)
-Miner :
+PC miner Github币电脑挖矿软件 :
+
 ![img](https://boxmy.hayoou.com/filecache/14bcc65fb35954439ae49eca241ff794)
+
+Miner download ，挖矿机下载:
 https://github.com/hayooucom/githubcoin/releases/tag/1.10.2
+
 We removed the difficulty bomb,can miner for ever!
 
-
-android wallet (open source) :
+Android wallet (open source) :
+安卓钱包下载：
 https://github.com/hayooucom/githubcoin-android/releases/tag/1.0
 
 <img src="https://boxmy.hayoou.com/filecache/119d9e66656c9130ff1e6f9e26e4a78d" alt="drawing" width="240"/>   <img src="https://boxmy.hayoou.com/filecache/adb2067db1871a7336cb995a7680d8e3" alt="drawing" width="240"/>   <img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
