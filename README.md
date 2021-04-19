@@ -7,10 +7,16 @@ PC miner Github币电脑挖矿软件 :
 
 ![img](https://boxmy.hayoou.com/filecache/14bcc65fb35954439ae49eca241ff794)
 
-Miner download ，挖矿机下载:
+Miner download ，挖矿软件下载 免费开挖:
+
 https://github.com/hayooucom/githubcoin/releases/tag/1.10.2
 
-We removed the difficulty bomb,can miner for ever!
+miner list 矿机列表：
+
+http://gtb.hayoou.com/miner.php
+
+
+We removed the difficulty bomb in etheum,can miner for ever!
 
 Android wallet (open source) :
 安卓钱包下载：
