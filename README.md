@@ -51,6 +51,13 @@ https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
 <img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
 
 Welcome to use !
+How to use move PC miner wallet to phone  :
+
+Copy PCminerDIR/data/11/keystore/xxxx file to phone SDcard/githubcoin/xxxx.json
+
+Remember rename xxxx to xxxx.json (require)
+
+then click import wallet .
 
 more info:
 
