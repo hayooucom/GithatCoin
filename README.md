@@ -8,7 +8,7 @@ So we create this product to these happen: more contribute to this world , more 
 
 Now everyone in Github can miner github coin . using latest ETH tech V1.10.2 (2021.4.19)
 
-Get 1000~10,1000 GithubCoin after check your github account ownership：
+Get 1000~10,000 GithubCoin after check your github account ownership：
 
 http://hayoou.com/gtc/get_githubcoin.php
 
