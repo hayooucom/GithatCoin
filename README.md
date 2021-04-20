@@ -39,6 +39,7 @@ We removed the difficulty bomb in etheum,can miner for ever!
 Android wallet (open source) :
 安卓钱包下载：
 https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
+
 [GithubCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
 <img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
