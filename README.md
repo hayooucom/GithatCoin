@@ -15,10 +15,8 @@ http://f.hayoou.com/blogs/entry/GithubCoin-published-for-ervery-github-users-tha
 Open source：
 
 https://gitee.com/hayoou/githubcoin
-
-
  
-everyone in Github can miner github coin . 
+Now everyone in Github can miner github coin . 
 using latest ETH tech V1.10.2 (2021.4.19)
 
 PC miner Github币电脑挖矿软件 :
@@ -33,14 +31,17 @@ miner list 矿机列表：
 
 http://gtb.hayoou.com/miner.php
 
+[Github coin contract deploy 公链 合约部署流程.pdf](http://hayoou.com/yaf8)
+
 
 We removed the difficulty bomb in etheum,can miner for ever!
 
 Android wallet (open source) :
 安卓钱包下载：
-https://github.com/hayooucom/githubcoin-android/releases/tag/1.0
+https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
+[GithubCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
-   <img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
+<img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
 
 Welcome to use !
 
@@ -56,3 +57,4 @@ gasLimit: 0x2fefd8
 
 static node: 
 enode://6a4b432d1dbd5626d13f674ffa833ec0cbe1db3f192a8090d75bd4317acf8cdc2f0702fb0ce9c8d582ebbed65271d2dfab0396e4b0f46842c9b8542b277c26e1@123.207.58.28:57778
+
