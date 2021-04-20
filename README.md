@@ -8,6 +8,10 @@ So we create this product to these happen: more contribute to this world , more 
 
 Now everyone in Github can miner github coin . using latest ETH tech V1.10.2 (2021.4.19)
 
+Get 1000~10,1000 GithubCoin after check your github account ownership：
+
+http://hayoou.com/gtc/get_githubcoin.php
+
 Offical page:
 
 http://f.hayoou.com/blogs/entry/GithubCoin-published-for-ervery-github-users-thanks-they-ideas-and-code
@@ -37,7 +41,9 @@ http://gtb.hayoou.com/miner.php
 We removed the difficulty bomb in etheum,can miner for ever!
 
 Android wallet (open source) :
+
 安卓钱包下载：
+
 https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
 
 [GithubCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
