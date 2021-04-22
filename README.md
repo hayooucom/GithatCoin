@@ -1,16 +1,16 @@
-## Hello World Github Coin  !
+## Hello World Githat Coin  !
 
 Thanks github users and many programer hard working and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. After years of they contributions we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
 
 These spirte should last forever.we need let them get rewarded.And also exchange the value of technology.
 
-So we create this product to these happen: more contribute to this world , more GithubCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay Githubcoin for searching tech help or get usefull data.
+So we create this product to these happen: more contribute to this world , more GithatCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay Githubcoin for searching tech help or get usefull data.
 
-Now everyone in Github can miner github coin . using latest ETH tech V1.10.2 (2021.4.19)
+Now everyone in Github can miner GithatCoin . using latest ETH tech V1.10.2 (2021.4.19)
 
-Get 1000~10,000 GithubCoin after check your github account ownership：
+Get 1000~10,000 GithatCoin after check your github account ownership：
 
-http://hayoou.com/gtc/get_githubcoin.php
+http://hayoou.com/gtc
 
 Offical page:
 
@@ -23,7 +23,7 @@ https://gitee.com/hayoou/githubcoin
 Now everyone in Github can miner github coin . 
 using latest ETH tech V1.10.2 (2021.4.19)
 
-PC miner Github币电脑挖矿软件 :
+PC miner Githat币电脑挖矿软件 :
 
 ![img](https://boxmy.hayoou.com/filecache/14bcc65fb35954439ae49eca241ff794)
 
