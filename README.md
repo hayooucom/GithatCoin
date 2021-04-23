@@ -14,9 +14,9 @@ http://hayoou.com/gtc
 
 Offical page:
 
-http://f.hayoou.com/blogs/entry/GithubCoin-published-for-ervery-github-users-thanks-they-ideas-and-code
+http://hayoou.com/githubcoin
 
-Open source：
+Open source on gitee：
 
 https://gitee.com/hayoou/githubcoin
 
