@@ -87,3 +87,8 @@ gasLimit: 0x2fefd8
 static node: 
 enode://6a4b432d1dbd5626d13f674ffa833ec0cbe1db3f192a8090d75bd4317acf8cdc2f0702fb0ce9c8d582ebbed65271d2dfab0396e4b0f46842c9b8542b277c26e1@123.207.58.28:57778
 
+Total allocation plan：
+10% for team building （5years）
+15% marketing （3years）
+17% for investor （3 years）
+58% to send github user （1 years）
