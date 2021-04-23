@@ -19,6 +19,10 @@ http://f.hayoou.com/blogs/entry/GithubCoin-published-for-ervery-github-users-tha
 Open source：
 
 https://gitee.com/hayoou/githubcoin
+
+Gitlib Coin BlockChain EXPLORER is online: 
+
+http://gtc2.hayoou.com:8000/
  
 Now everyone in Github can miner Gitlib coin . 
 using latest ETH tech V1.10.2 (2021.4.19)
