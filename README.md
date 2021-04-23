@@ -4,11 +4,11 @@ Thanks github users and many programer hard working and wonderful ideas.And shar
 
 These spirte should last forever.we need let them get rewarded.And also exchange the value of technology.
 
-So we create this product to these happen: more contribute to this world , more GithatCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay Githubcoin for searching tech help or get usefull data.
+So we create this product to these happen: more contribute to this world , more GitlibCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay Githubcoin for searching tech help or get usefull data.
 
-Now everyone in Github can miner GithatCoin . using latest ETH tech V1.10.2 (2021.4.19)
+Now everyone in Github can miner GitlibCoin . using latest ETH tech V1.10.2 (2021.4.19)
 
-Get 1000~10,000 GithatCoin after check your github account ownership：
+Get 1000~10,000 GitlibCoin after check your github account ownership：
 
 http://hayoou.com/gtc
 
@@ -20,10 +20,10 @@ Open source：
 
 https://gitee.com/hayoou/githubcoin
  
-Now everyone in Github can miner github coin . 
+Now everyone in Github can miner Gitlib coin . 
 using latest ETH tech V1.10.2 (2021.4.19)
 
-PC miner Githat币电脑挖矿软件 :
+PC miner Gitlib币电脑挖矿软件 :
 
 ![img](https://boxmy.hayoou.com/filecache/14bcc65fb35954439ae49eca241ff794)
 
@@ -35,7 +35,7 @@ miner list 矿机列表：
 
 http://gtb.hayoou.com/miner.php
 
-[Github coin contract deploy 公链 合约部署流程.pdf](http://hayoou.com/yaf8)
+[Gitlib coin contract deploy 公链 合约部署流程.pdf](http://hayoou.com/yaf8)
 
 
 We removed the difficulty bomb in etheum,can miner for ever!
