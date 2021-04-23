@@ -1,4 +1,4 @@
-## Hello World Githat Coin  !
+## Hello World Gitlib Coin  !
 
 Thanks github users and many programer hard working and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. After years of they contributions we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
 
@@ -46,7 +46,7 @@ Android wallet (open source) :
 
 https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
 
-[GithubCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
+[GitlibCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
 <img src="https://boxmy.hayoou.com/filecache/f2a7be5539c3483caa1126d869e33f08" alt="drawing" width="240"/>
 
