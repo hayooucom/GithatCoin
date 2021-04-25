@@ -39,7 +39,7 @@ miner list 矿机列表：
 
 http://gtb.hayoou.com/miner.php
 
-[Gitlib coin contract deploy 公链 合约部署流程.pdf](http://hayoou.com/yaf8)
+[Gitlib coin contract deploy 公链 合约部署流程.pdf](http://hayoou.com/yafr)
 
 
 We removed the difficulty bomb in etheum,can miner for ever!
