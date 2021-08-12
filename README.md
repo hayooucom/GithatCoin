@@ -1,30 +1,30 @@
 ## Hello World Gitlib Coin  !
 
-Thanks github users and many programer hard working and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. After years of they contributions we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
+Thanks gitee users and many programer hard working and wonderful ideas.And share they code with everyone ,sometimes didn't expect to get much in return. After years of they contributions we have this such great world right now. Such as Linus Benedict , share his software Linux operasystem over the world.
 
 These spirte should last forever.we need let them get rewarded.And also exchange the value of technology.
 
-So we create this product to these happen: more contribute to this world , more GitlibCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they github project page later. Users can pay Githubcoin for searching tech help or get usefull data.
+So we create this product to these happen: more contribute to this world , more GitlibCoin GTC reward. Let everything go in the right direction.We may reward through they activity and star /fork data in they gitee project page later. Users can pay giteecoin for searching tech help or get usefull data.
 
-Now everyone in Github can miner GitlibCoin . using latest ETH tech V1.10.2 (2021.4.19)
+Now everyone in gitee can miner GitlibCoin . using latest ETH tech V1.10.2 (2021.4.19)
 
-Get 1000~10,000 GitlibCoin after check your github account ownership：
+Get 1000~10,000 GitlibCoin after check your gitee account ownership：
 
 http://hayoou.com/gtc
 
 Offical page:
 
-http://hayoou.com/githubcoin
+http://hayoou.com/giteecoin
 
 Open source on gitee：
 
-https://gitee.com/hayoou/githubcoin
+https://gitee.com/hayoou/giteecoin
 
 Gitlib Coin BlockChain EXPLORER is online: 
 
 [hayoou.com/gtce](http://gtc2.hayoou.com:8000)
  
-Now everyone in Github can miner Gitlib coin . 
+Now everyone in gitee can miner Gitlib coin . 
 using latest ETH tech V1.10.2 (2021.4.19)
 
 PC miner Gitlib币电脑挖矿软件 :
@@ -33,7 +33,7 @@ PC miner Gitlib币电脑挖矿软件 :
 
 Miner download ，挖矿软件下载 免费开挖:
 
-https://github.com/hayooucom/githubcoin/releases/tag/1.10.2
+https://gitee.com/hayooucom/giteecoin/releases/tag/1.10.2
 
 miner list 矿机列表：
 
@@ -48,7 +48,7 @@ Android wallet (open source) :
 
 安卓钱包下载：
 
-https://github.com/hayooucom/githubcoin-android/releases/tag/1.1
+https://gitee.com/hayooucom/giteecoin-android/releases/tag/1.1
 
 [GitlibCoin-wallet-安卓钱包-1.1.apk](http://hayoou.com/yafc)
 
@@ -68,7 +68,7 @@ https://discord.gg/qcxjgMmb2X
 
 How to move PC miner wallet to phone  :
 
-Copy PCminerDIR/data/11/keystore/xxxx file to phone SDcard/githubcoin/xxxx.json
+Copy PCminerDIR/data/11/keystore/xxxx file to phone SDcard/giteecoin/xxxx.json
 
 Remember rename xxxx to xxxx.json (require)
 
@@ -78,7 +78,7 @@ more info:
 
 chainId: 156893586
 
-alloc: for send github user prize
+alloc: for send gitee user prize
 
 istanbulBlock:0
 
@@ -91,4 +91,4 @@ Total allocation plan：
 10% for team building （5years）
 15% marketing （3years）
 17% for investor （3 years）
-58% to send github user （1 years）
+58% to send gitee user （1 years）
